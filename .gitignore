@@ -1,0 +1,30 @@
+# Unity generated
+Library/
+Logs/
+Temp/
+Obj/
+ 
+# User specific assets
+# Assets/Scenes/
+# Assets/Materials/
+ 
+# Metadata
+*.meta
+ 
+# Build results
+Build/
+ 
+# Visual Studio cache
+.vs/
+ 
+# Gradle cache
+.gradle/
+ 
+# OSX system files
+.DS_Store?
+ 
+# Windows thumbnail db
+Thumbs.db
+ 
+# Kitware cache
+.cache/

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/heart.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/subscribe.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/list.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/register.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/rank.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/games.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/networking.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/share.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/pictures/collection.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  mAudios: []
+  mMeshes:
+  - onDemandDownload: 1
+    assetPath: Assets/Realistic Glassware/Meshes/BalloonGlass.fbx:BalloonGlass.001
+    localFileId: 9177984530986453202
+    rtMem: 65328
+    warningFlag: 0
+    refs:
+    - 0
+  mAnimations: []
+  mSharedSceneAssets: []
+  mScenes:
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/Main.unity
+    localFileId: -1
+    rtMem: 560566
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: f268a13f81384e4ca71be7c7771f338f
+    uosAppid: 4ff9a03e-27e9-47ec-9976-b612666cdd7b
+    bucketUuid: 480beb48-7356-41bb-ba28-c887d71b46b6
+    bucketName: minigame001
+    badgeName: latest
+    ttAppid: 
+    targetPlatfrom: 

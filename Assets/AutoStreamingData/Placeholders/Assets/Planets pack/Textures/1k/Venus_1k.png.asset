@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Venus_1k.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_TextureFormat: 50
+  m_MipCount: 6
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 7da88663d2cd045b0e8ef82f11e187745db02d34b601fa1cf4eb556251c803cce2c8bab5cf413a1a0e40fff5030fd46f5da886631dbd3a80d31a1a198ab886eaf1843f561ad80e9d898bdf0d410114f15de8bc677ae3354c361c0400200a81507e8035b7d7b5d035807baf5e3c0320001841db79816237d90176f372254a9e796f40a7e32214204924293e47362029d31841d37983667a16b702b6002d4c88ff71099db1d55e8ed33c9467bc3f33685cc2843f9e6ede88c8a0a8300000818818e248d6a3d761055b0ea2a51f8b0eb3e51841db798684ae582ef6e00da427db3d6f40d7e6061430a8016bf16b4ff86e921841db7ac286007539380f4a6132945d1841db7aa5a1549652e7b240b40515245d080234d3b749c092fd439dadad241f51f128f4ef41bf2e2cd602ca5a09c7eb634197ee0614f9856a85ea9a083128be1841db7ae1f44d068802871fe06715b51841e37bc116be87532a2066dfbd57057281739e943174a508491749a182942f5d080254dbb845d09471d62c80bc75aff1843f9e1ee8818b404040834002f1456341a7e306b04cdefc1448027009b6dc6341d7ea325cddd7fedfb461cd7a94ab1841db79e2575496ede576bac9bb9f8253410f0d5b027ed0bae9edeeb6ddfb36f1a88675d31caa7d3d1d00101010804002b12d94d31ec51995c0595900cbacc5f18888633bd95880d5fe820000007f8002d10894d35ce27b1960d39e10032eba02b12d94d3bc8ed35c86153d003c9d460429b7a346cf110cfd34a80b0000f0816e800377f40f51000000000000001c301881a76fb740369344c94fc3dc38fb790881d7bc637e03d5f02adb9903d1f17f7de8d991d5bec539b5809d9499994b770881f7e8667609b46de6e7bce27ecde61841db7aa5624c1292859548a44c2b3d51692514cfe6e5d1b575159145052fe21841e37a18a2542a95ef377bfd899bc253418b3b3f051fb665db8494ee6de72f5de8b343fb987680d3fe060100f790e063819953eb58fcd7c35c3ff22dcdb79661298b751ecbc6d6d636d709401008c102c9bf914eb7dc09edb5932d89c45fc97e80339e965106000000000000800808f128d1d519bb8839d52e07a8daab09ed618195a9415bdbeab4de000000000080fcfdffffffffffffcdcda5a56f6f6060
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

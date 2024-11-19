@@ -1,0 +1,149 @@
+.test {
+    border-left-color: rgb(117, 231, 29);
+    border-right-color: rgb(117, 231, 29);
+    border-top-color: rgb(117, 231, 29);
+    border-bottom-color: rgb(117, 231, 29);
+    border-left-width: 13px;
+    border-right-width: 13px;
+    border-top-width: 13px;
+    border-bottom-width: 13px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.button {
+    border-top-left-radius: 21px;
+    border-bottom-left-radius: 21px;
+    border-top-right-radius: 21px;
+    border-bottom-right-radius: 21px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-top-width: 8px;
+    border-bottom-width: 8px;
+}
+
+.circle {
+    border-left-color: rgb(128, 115, 115);
+    border-right-color: rgb(128, 115, 115);
+    border-top-color: rgb(128, 115, 115);
+    border-bottom-color: rgb(128, 115, 115);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-top-left-radius: 148px;
+    border-bottom-left-radius: 148px;
+    border-top-right-radius: 148px;
+    border-bottom-right-radius: 148px;
+}
+
+.red {
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-top-left-radius: 23px;
+    border-bottom-left-radius: 23px;
+    border-top-right-radius: 23px;
+    border-bottom-right-radius: 23px;
+    border-left-color: rgba(255, 0, 0, 255);
+    border-right-color: rgba(255, 0, 0, 255);
+    border-top-color: rgba(255, 0, 0, 255);
+    border-bottom-color: rgba(255, 0, 0, 255);
+}
+
+.blue {
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
+    border-left-color: rgba(0, 3, 255, 255);
+    border-right-color: rgba(0, 3, 255, 255);
+    border-top-color: rgba(0, 3, 255, 255);
+    border-bottom-color: rgba(0, 3, 255, 255);
+}
+
+.white {
+    border-left-color: rgba(255, 255, 255, 255);
+    border-right-color: rgba(255, 255, 255, 255);
+    border-top-color: rgba(255, 255, 255, 255);
+    border-bottom-color: rgba(255, 255, 255, 255);
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+}
+
+.animation_display {
+    transition-property: background-color;
+    transition-duration: 0.2s;
+    transition-delay: 0s;
+    transition-timing-function: ease-in-out;
+}
+
+.animation_display_summary {
+    transition-property: display, display, scale;
+    transition-timing-function: ease-in, ease-out, ease;
+    transition-duration: 0.8s, 1s, 0.6s;
+    transition-delay: 0.1s, 0s, 0s;
+    border-left-color: rgba(67, 207, 71, 0.74);
+    border-right-color: rgba(67, 207, 71, 0.74);
+    border-top-color: rgba(67, 207, 71, 0.74);
+    border-bottom-color: rgba(67, 207, 71, 0.74);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 0;
+    border-bottom-width: 4px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.animation_display_summary_basic {
+    transition-property: display, display, scale;
+    transition-timing-function: ease-in, ease-out, ease;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-delay: 0.1s, 0s, 0s;
+    border-left-color: rgba(67, 207, 71, 0.74);
+    border-right-color: rgba(67, 207, 71, 0.74);
+    border-top-color: rgba(67, 207, 71, 0.74);
+    border-bottom-color: rgba(67, 207, 71, 0.74);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 0;
+    border-bottom-width: 4px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.animation_display_summary_compose {
+    transition-property: display, display, scale;
+    transition-timing-function: ease-in, ease-out, ease;
+    transition-duration: 2s, 1s, 0.6s;
+    transition-delay: 0.1s, 0s, 0s;
+    border-left-color: rgba(67, 207, 71, 0.74);
+    border-right-color: rgba(67, 207, 71, 0.74);
+    border-top-color: rgba(67, 207, 71, 0.74);
+    border-bottom-color: rgba(67, 207, 71, 0.74);
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 0;
+    border-bottom-width: 4px;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}

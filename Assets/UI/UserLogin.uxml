@@ -1,0 +1,36 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/test.uss?fileID=7433441132597879392&amp;guid=2acd2faebca6c5a4792cabaee883ae24&amp;type=3#test" />
+    <ui:VisualElement name="ROOT" style="flex-direction: row; flex-grow: 1;">
+        <ui:VisualElement name="Leftbuttons" style="flex-grow: 1; width: 20%; border-right-width: 25px;">
+            <ui:VisualElement style="flex-grow: 1;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/heart.png?fileID=2800000&amp;guid=5004bf226f6f19843bff010be0507dba&amp;type=3#heart&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/subscribe.png?fileID=2800000&amp;guid=11b2e12b0c99a6d4a8de927e41285a54&amp;type=3#subscribe&apos;); -unity-background-scale-mode: scale-to-fit;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1;" />
+            <ui:VisualElement style="flex-grow: 1;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/list.png?fileID=2800000&amp;guid=aaaa004b3fbd46246b5bf2e546b1bdbd&amp;type=3#list&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/register.png?fileID=2800000&amp;guid=4724eff098c7b8d439af9004541a12f5&amp;type=3#register&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/rank.png?fileID=2800000&amp;guid=dea608b4c59cfad4d96869e877131eb8&amp;type=3#rank&apos;); -unity-background-scale-mode: scale-to-fit;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Center" style="flex-grow: 1; width: 80%; background-image: none; -unity-background-scale-mode: scale-to-fit;">
+            <ui:VisualElement name="Title" style="height: 40%;" />
+            <ui:VisualElement name="blank" style="height: 40%;" />
+            <ui:VisualElement name="EnterGame" style="height: 20%; align-items: center; flex-grow: 1; -unity-font: url(&apos;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=b580b89e58080704e876c13fd1032758&amp;type=3#NotInter-Regular&apos;);">
+                <ui:Button text="PLAY" display-tooltip-when-elided="false" name="playbutton" style="flex-grow: 1; width: 100%; -unity-text-align: middle-center; margin-left: 55px; margin-right: 55px; margin-top: 55px; margin-bottom: 55px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; border-left-width: 8px; border-right-width: 8px; border-top-width: 8px; border-bottom-width: 8px; border-top-left-radius: 40px; border-bottom-left-radius: 40px; border-top-right-radius: 40px; border-bottom-right-radius: 40px; font-size: 35px; -unity-font-style: bold; background-color: rgb(134, 241, 33);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="rightButtons" style="flex-grow: 1; width: 20%; border-left-width: 25px;">
+            <ui:VisualElement style="flex-grow: 1;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/games.png?fileID=2800000&amp;guid=eae06e98b2b788d49a3b020f09c9e781&amp;type=3#games&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/networking.png?fileID=2800000&amp;guid=0df18bc200ed155478bd1f843be04398&amp;type=3#networking&apos;); -unity-background-scale-mode: scale-to-fit;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1;" />
+            <ui:VisualElement style="flex-grow: 1;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/share.png?fileID=2800000&amp;guid=6a4258ca86dfde546a54cc514b7443f5&amp;type=3#share&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/collection.png?fileID=2800000&amp;guid=22e08a84b5b60a34683e660aee81d9c2&amp;type=3#collection&apos;); -unity-background-scale-mode: scale-to-fit;" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/pictures/rank.png?fileID=2800000&amp;guid=dea608b4c59cfad4d96869e877131eb8&amp;type=3#rank&apos;); -unity-background-scale-mode: scale-to-fit; align-items: center;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
