@@ -52,6 +52,7 @@
      <Compile Include="Assets\__Scripts\UI\ColorShowInCanvas.cs" />
      <Compile Include="Assets\__Scripts\Core\spawnBallsInLogin.cs" />
      <Compile Include="Assets\__Scripts\WX\UserInfo.cs" />
+     <Compile Include="Assets\__Scripts\Core\Wobble.cs" />
      <None Include="Assets\WX-WASM-SDK-V2\package.json" />
      <None Include="Assets\colorballs\shaders\highlight.shader" />
      <None Include="Assets\UI\Game.uxml" />
@@ -318,6 +319,21 @@
      </Reference>
      <Reference Include="Mono.Cecil">
      <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Pdb">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.burst@1.6.0/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Unsafe">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.burst@1.6.0/Unity.Burst.Unsafe.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Mdb">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.burst@1.6.0/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.burst@1.6.0/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Cecil.Rocks">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/PackageCache/com.unity.burst@1.6.0/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>D:/UnityHub/Editor/2021.2.5f1c303/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -762,6 +778,51 @@
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Runtime">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Searcher.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="PPv2URPConverters">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Universal.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ShaderGraph.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Burst.Editor">
+     <HintPath>D:/workspace/Unity3D_mini/planetsCup/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -224,6 +224,7 @@ public class Composealgorithm : MonoBehaviour
             return;
         }
         PushInSelectedList(ball);
+        BallEffect.LightTheBall(ball);
         EventUpdateCoin();
 
         System.Collections.IEnumerator ComposeMixColor()
